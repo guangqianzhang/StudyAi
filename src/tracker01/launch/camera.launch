@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<launch>
+
+    <node pkg="tracker01" type="tracker01_node" name="show_camera">
+        <param name="looprate" value="40"/>
+        <param name="cap_num" value="2"/>
+    </node>
+</launch>

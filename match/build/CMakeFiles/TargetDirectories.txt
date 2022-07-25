@@ -1,0 +1,3 @@
+/home/zgq/Documents/Tracker/studyai/match/build/CMakeFiles/matchproject_node.dir
+/home/zgq/Documents/Tracker/studyai/match/build/CMakeFiles/edit_cache.dir
+/home/zgq/Documents/Tracker/studyai/match/build/CMakeFiles/rebuild_cache.dir
